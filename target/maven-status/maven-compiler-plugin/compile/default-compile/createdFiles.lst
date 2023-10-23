@@ -1,0 +1,5 @@
+com\capg\dao\BikesDao.class
+com\capg\Application.class
+com\capg\controller\BikesController.class
+com\capg\service\BikesService.class
+com\capg\entity\Bikes.class
